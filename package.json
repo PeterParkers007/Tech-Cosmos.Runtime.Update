@@ -1,0 +1,12 @@
+{
+  "name": "com.peterparkers.updatemanager",
+  "displayName": "UpdateManager",
+  "version": "1.0.0",
+  "description": "Used to optimize Unity's Update lifecycle function to avoid performance overhead",
+  "unity": "2022.3",
+  "author": {
+    "name": "张锦铭",
+    "email": "3427463164@qq.com",
+    "url": "https://github.com/PeterParkers007"
+  }
+}
