@@ -1,6 +1,6 @@
 {
-  "name": "com.peterparkers.updatemanager",
-  "displayName": "UpdateManager",
+  "name": "com.peterparkers.zjm_optimizetools",
+  "displayName": "ZJM_OptimizeTools",
   "version": "1.0.0",
   "description": "Used to optimize Unity's Update lifecycle function to avoid performance overhead",
   "unity": "2022.3",
